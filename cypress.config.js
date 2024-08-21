@@ -24,8 +24,8 @@ module.exports = defineConfig({
     env: {
       apiUrl: 'https://api.unsplash.com',
       username: '',
-      email: 'kaitoukid141206@gmail.com',
-      password: 'Tu@n@nh123$%^.',
+      email: 'tranthitulinh1305@gmail.com',
+      password: '@Nhamayductai230140....',
       token: 'Ky3jhxcpue7C8RyleDP6prD9_Hhq8CZgwTbAOMeDV2U'
     }
   },
