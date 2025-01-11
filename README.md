@@ -70,3 +70,63 @@ npx cypress open
 |_ package-lock.json: Chứa thông tin về các gói (packages) cần thiết cho dự án, bao gồm Cypress, Preprocessor, và các thư viện khác.
 |_ package.json: nt
 |_ README.md
+
+
+<!-- //// -->
+CypressUnplash
+├── cypress
+│   ├── e2e
+│   │   ├── common
+│   │   │   └── common.js
+│   │   ├── download
+│   │   │   ├── download.feature
+│   │   │   └── download.js
+│   │   ├── follow
+│   │   │   ├── follow.feature
+│   │   │   └── follow.js
+│   │   ├── list
+│   │   │   ├── list.feature
+│   │   │   └── list.js
+│   │   ├── remove
+│   │   │   ├── remove.feature
+│   │   │   └── remove.js
+│   │   └── update
+│   │       ├── update.feature
+│   │       └── update.js
+│   ├── page-objects
+│   │   ├── locators
+│   │   │   ├── edit-profile.js
+│   │   │   ├── home.js
+│   │   │   ├── login.js
+│   │   │   ├── menu-bar.js
+│   │   │   ├── modal.js
+│   │   │   └── profile.js
+│   │   └── pages
+│   │       ├── edit-profile.js
+│   │       ├── home.js
+│   │       ├── login.js
+│   │       └── profile.js
+│   ├── support
+│   │   ├── commands.js
+│   │   └── e2e.js
+│   └── utils
+│       ├── api
+│       │   ├── endpoints
+│       │   │   ├── collection.js
+│       │   │   ├── photo.js
+│       │   │   └── user.js
+│       │   └── services
+│       │       ├── collection.js
+│       │       ├── photo.js
+│       │       └── user.js
+│       └── helpers
+│           ├── common.js
+│           └── request.js
+├── .cypress-cucumber-preprocessorrc.json
+├── .gitattributes
+├── .prettierignore
+├── .prettierrc
+├── cypress.config.js
+├── package-lock.json
+├── package.json
+└── README.md
