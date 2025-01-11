@@ -2,7 +2,7 @@
 (still edit)
 This is a basic project setup for testing web applications using the [Cypress](https://www.cypress.io/) framework. The project demonstrates end-to-end testing capabilities, including structure, configuration, and example tests.
 
-## Table of Contents (still edit)
+## Table of Contents 
 
 - [Features](#features )
 - [Prerequisites](#prerequisites)
@@ -10,7 +10,6 @@ This is a basic project setup for testing web applications using the [Cypress](h
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Writing Tests](#writing-tests)
-- [Support and Configuration](#support-and-configuration)
 - [Resources](#resources)
 
 ---
@@ -44,9 +43,6 @@ This is a basic project setup for testing web applications using the [Cypress](h
 ```bash
    npm install
 ```
-
-##  Documents
-https://docs.cypress.io/guides/overview/why-cypress
 
 ## Project Structure
 ```md
