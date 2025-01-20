@@ -1,5 +1,4 @@
 # CypressUnplash
-(still edit)
 This is a basic project setup for testing web applications using the [Cypress](https://www.cypress.io/) framework. The project demonstrates end-to-end testing capabilities, including structure, configuration, and example tests.
 
 ## Table of Contents 
@@ -13,7 +12,7 @@ This is a basic project setup for testing web applications using the [Cypress](h
 - [Resources](#resources)
 
 ---
-## Features (still edit)
+## Features
 
 - End-to-end testing for web applications
 - Cypress pre-configured for immediate use
